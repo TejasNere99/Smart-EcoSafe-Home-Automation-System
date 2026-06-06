@@ -6,10 +6,10 @@
 
 // // ===== WiFi =====
 // const char* ssid = "OPPO Reno11 5G";
-// const char* password = "Tejas1209111";
+// const char* password = "pass";
 
 // // ===== Telegram =====
-// String botToken = "8448083892:AAE0bnE9NOENr3LoUxDc5DwtcQfJHk0zA4Y";
+// String botToken = "token";
 
 // String chatID1 = "6680036635";
 // String chatID2 = "7021793764";
@@ -183,9 +183,9 @@ int idleState = 0;
 
 // WiFi and Telegram Definitions
 const char* ssid = "OPPO Reno11 5G";
-const char* password = "Tejas1209111";
+const char* password = "pass";
 
-String botToken = "8448083892:AAE0bnE9NOENr3LoUxDc5DwtcQfJHk0zA4Y";
+String botToken = "token";
 String chatID1 = "6680036635";
 String chatID2 = "7021793764";
 
